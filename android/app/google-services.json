@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337798518748",
+    "project_id": "apb-gmaps",
+    "storage_bucket": "apb-gmaps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337798518748:android:7fb82ae4bc87f12ac12119",
+        "android_client_info": {
+          "package_name": "com.example.telkom_maps_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrY6OzOoRAUOiX8fTbSkpUm8KaXydAq6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -358,24 +358,3 @@ org.gradle.workers.max=1
 kotlin.incremental=false
 kotlin.compiler.execution.strategy=in-process
 ```
-
-## Anggota Kelompok
-
-```txt
-1. Nama Anggota 1
-2. Nama Anggota 2
-3. Nama Anggota 3
-4. Nama Anggota 4
-```
-
-## Status Project
-
-Project ini dibuat untuk memenuhi tugas implementasi Flutter, Firebase Realtime Database, dan Google Maps.
-
-Fitur utama sudah tersedia:
-
-- Menampilkan map.
-- Menampilkan marker Telkom University Surabaya.
-- Navigasi kamera ke Jalan Tunjungan Surabaya.
-- Navigasi kamera kembali ke Telkom University Surabaya.
-- Menyimpan data lokasi ke Firebase Realtime Database.
